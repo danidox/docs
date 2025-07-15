@@ -11,25 +11,42 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Standalone",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "UiPath Assistant",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "deliveries/standalone/about-uipath-assistant",
+              "deliveries/standalone/field-descriptions"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Installing UiPath Assistant",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "deliveries/standalone/installing-uipath-assistant"
+            ]
+          },
+          {
+            "group": "Configuring UiPath Assistant",
+            "pages": [
+              "deliveries/standalone/sign-in-to-your-account",
+              "deliveries/standalone/task-capture-launcher",
+              "deliveries/standalone/excel-add-in"              
+            ]
+          },
+          {
+            "group": "Assistant on MacOS",
+            "pages": [
+              "deliveries/standalone/uipath-assistant-on-mac"
+            ]
+          },
+          {
+            "group": "Configuring UiPath Assistant",
+            "pages": [
+              "deliveries/standalone/picture-in-picture",
+              "deliveries/standalone/pip-child-session",
+              "deliveries/standalone/pip-virtual-desktop",
+              "deliveries/standalone/technology-comparison"
             ]
           }
         ]
