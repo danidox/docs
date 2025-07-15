@@ -52,21 +52,124 @@
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "Automation Cloud",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "UiPath Assistant",
             "pages": [
-              "api-reference/introduction"
+              "deliveries/automation-cloud/about-uipath-assistant",
+              "deliveries/automation-cloud/field-descriptions"
             ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "Installing UiPath Assistant",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "deliveries/automation-cloud/installing-uipath-assistant"
+            ]
+          },
+          {
+            "group": "Configuring UiPath Assistant",
+            "pages": [
+              "deliveries/automation-cloud/sign-in-to-your-account",
+              "deliveries/automation-cloud/task-capture-launcher",
+              "deliveries/automation-cloud/excel-add-in"              
+            ]
+          },
+          {
+            "group": "Assistant on MacOS",
+            "pages": [
+              "deliveries/automation-cloud/uipath-assistant-on-mac"
+            ]
+          },
+          {
+            "group": "Configuring UiPath Assistant",
+            "pages": [
+              "deliveries/automation-cloud/picture-in-picture",
+              "deliveries/automation-cloud/pip-child-session",
+              "deliveries/automation-cloud/pip-virtual-desktop",
+              "deliveries/automation-cloud/technology-comparison"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Automation Cloud Public Sector",
+        "groups": [
+          {
+            "group": "UiPath Assistant",
+            "pages": [
+              "deliveries/automation-cloud/about-uipath-assistant",
+              "deliveries/automation-cloud/field-descriptions"
+            ]
+          },
+          {
+            "group": "Installing UiPath Assistant",
+            "pages": [
+              "deliveries/automation-cloud/installing-uipath-assistant"
+            ]
+          },
+          {
+            "group": "Configuring UiPath Assistant",
+            "pages": [
+              "deliveries/automation-cloud/sign-in-to-your-account",
+              "deliveries/automation-cloud/task-capture-launcher",
+              "deliveries/automation-cloud/excel-add-in"              
+            ]
+          },
+          {
+            "group": "Assistant on MacOS",
+            "pages": [
+              "deliveries/automation-cloud/uipath-assistant-on-mac"
+            ]
+          },
+          {
+            "group": "Configuring UiPath Assistant",
+            "pages": [
+              "deliveries/automation-cloud/picture-in-picture",
+              "deliveries/automation-cloud/pip-child-session",
+              "deliveries/automation-cloud/pip-virtual-desktop",
+              "deliveries/automation-cloud/technology-comparison"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Automation Suite",
+        "groups": [
+          {
+            "group": "UiPath Assistant",
+            "pages": [
+              "deliveries/automation-suite/about-uipath-assistant",
+              "deliveries/automation-suite/field-descriptions"
+            ]
+          },
+          {
+            "group": "Installing UiPath Assistant",
+            "pages": [
+              "deliveries/automation-suite/installing-uipath-assistant"
+            ]
+          },
+          {
+            "group": "Configuring UiPath Assistant",
+            "pages": [
+              "deliveries/automation-suite/sign-in-to-your-account",
+              "deliveries/automation-suite/task-capture-launcher",
+              "deliveries/automation-suite/excel-add-in"              
+            ]
+          },
+          {
+            "group": "Assistant on MacOS",
+            "pages": [
+              "deliveries/automation-suite/uipath-assistant-on-mac"
+            ]
+          },
+          {
+            "group": "Configuring UiPath Assistant",
+            "pages": [
+              "deliveries/automation-suite/picture-in-picture",
+              "deliveries/automation-suite/pip-child-session",
+              "deliveries/automation-suite/pip-virtual-desktop",
+              "deliveries/automation-suite/technology-comparison"
             ]
           }
         ]
